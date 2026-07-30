@@ -26,3 +26,16 @@
 🚀 Building practical applications that solve real-world problems.
 
 📚 Currently learning **System Design** and advanced backend development.
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KishanParashar&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KishanParashar&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KishanParashar&theme=tokyonight&hide_border=true" />
+</p>
