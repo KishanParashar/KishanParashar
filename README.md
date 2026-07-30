@@ -74,3 +74,9 @@
 | 🔍 **Smart Lost Object Finder** | Object Detection using Grounding DINO |
 | ☕ **Get Me A Chai** | Patreon-inspired crowdfunding platform |
 | 🌐 **Portfolio Website** | Personal portfolio showcasing projects and skills |
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KishanParashar/KishanParashar/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
