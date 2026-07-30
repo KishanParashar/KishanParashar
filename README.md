@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" width="100%" alt="Banner"/>
+<img src="assets/githubbanner.png" width="100%" alt="Banner"/>
 
 # Hi 👋 I'm Kishan Parashar
 
