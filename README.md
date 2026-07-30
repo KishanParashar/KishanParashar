@@ -39,3 +39,38 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=KishanParashar&theme=tokyonight&hide_border=true" />
 </p>
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,react,nextjs,nodejs,express,mongodb,fastapi,tailwind,git,github,vscode&theme=dark" />
+
+</p>
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/kishan-parashar-a5a106286/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-six-sand-0wdr0n68so.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Kishan_parashar/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 📰 **AI-Powered Fake News Detection** | Full Stack ML application using Next.js, FastAPI, Scikit-learn & Tailwind CSS |
+| 🔍 **Smart Lost Object Finder** | Object Detection using Grounding DINO |
+| ☕ **Get Me A Chai** | Patreon-inspired crowdfunding platform |
+| 🌐 **Portfolio Website** | Personal portfolio showcasing projects and skills |
